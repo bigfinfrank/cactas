@@ -14,7 +14,7 @@ It's important to start with the highest quality copies of your initial assets a
 
 The ideal situation would be to have the original quality frames that were used to create the GIF. If you have the frames on hand or you know the original creator and can get them, that's the best spot you can be in.
 
-For those of us who aren't that lucky, we can upload our GIFs to [TinEye](https://tineye.com) and [Yandex Images](https://yandex.com/images) to try and find the original version. I recommend giving the top handful of results a once-over to see if someone credited the original creator, a lot of the times putting the creator's name in "double quotes" on Google will get you to a portfolio where you can find the original.
+For those of us who aren't that lucky, we can upload our GIFs to [TinEye](https://tineye.com), [IQDB](https://iqdb.org), and [Yandex Images](https://yandex.com/images) to try and find the original version. I recommend giving the top handful of results a once-over to see if someone credited the original creator, a lot of the times putting the creator's name in "double quotes" on Google will get you to a portfolio where you can find the original.
 
 
 ### 2. Extracting the frames from a compiled GIF (or video)
